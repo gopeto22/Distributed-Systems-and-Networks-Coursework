@@ -1,0 +1,5 @@
+NotEnoughDstoresException
+	at Client.parseStoreToMessage(Client.java:404)
+	at Client.store(Client.java:196)
+	at Client.store(Client.java:166)
+	at Test6dot1.main(Test6dot1.java:86)

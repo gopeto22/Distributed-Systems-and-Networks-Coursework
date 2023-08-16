@@ -1,0 +1,37 @@
+Port number: 12345 is being listened by the Controller
+Trying to establish a connection.
+Connection established successfully.
+Trying to establish a connection.
+The command which is being read is: JOIN
+Trying to add a Dstore.
+Successful addition of a Dstore.
+Connection established successfully.
+Trying to establish a connection.
+The command which is being read is: JOIN
+Trying to add a Dstore.
+Successful addition of a Dstore.
+Connection established successfully.
+Trying to establish a connection.
+Connection established successfully.
+The command which is being read is: JOIN
+Trying to add a Dstore.
+Successful addition of a Dstore.
+Trying to establish a connection.
+Connection established successfully.
+The command which is being read is: JOIN
+Trying to add a Dstore.
+Successful addition of a Dstore.
+Trying to establish a connection.
+The command which is being read is: JOIN
+Trying to add a Dstore.
+Successful addition of a Dstore.
+Connection established successfully.
+Trying to establish a connection.
+The command which is being read is: JOIN
+Trying to add a Dstore.
+Successful addition of a Dstore.
+Connection established successfully.
+Trying to establish a connection.
+The command which is being read is: STORE
+ "Store in progress" is the updated index.
+Invalid replicationFactor. Expected: 3, Actual: 4

@@ -1,0 +1,5 @@
+Connection established to port 12345
+Message sent to port 12345: STORE small_file.jpg 4849
+Store operation started for file small_file.jpg
+Message received from port 12345: ERROR_NOT_ENOUGH_DSTORES
+ERROR: Not enough Dstores have joined the data store yet

@@ -1,0 +1,8 @@
+java -Djava.security.manager -Djava.security.policy=my_policy.policy -cp ../bin/ Controller 12345 4 1000 5 > controller.stdout 2>controller.stderr &
+java -Djava.security.manager -Djava.security.policy=my_policy.policy -cp ../bin/ Dstore 12346 12345 1000 files_12346 > dstore_12346.stdout 2>dstore_12346.stderr &
+java -Djava.security.manager -Djava.security.policy=my_policy.policy -cp ../bin/ Dstore 12347 12345 1000 files_12347 > dstore_12347.stdout 2>dstore_12347.stderr &
+java -Djava.security.manager -Djava.security.policy=my_policy.policy -cp ../bin/ Dstore 12348 12345 1000 files_12348 > dstore_12348.stdout 2>dstore_12348.stderr &
+java -Djava.security.manager -Djava.security.policy=my_policy.policy -cp ../bin/ Dstore 12349 12345 1000 files_12349 > dstore_12349.stdout 2>dstore_12349.stderr &
+java -Djava.security.manager -Djava.security.policy=my_policy.policy -cp ../bin/ Dstore 12350 12345 1000 files_12350 > dstore_12350.stdout 2>dstore_12350.stderr &
+java -Djava.security.manager -Djava.security.policy=my_policy.policy -cp ../bin/ Dstore 12351 12345 1000 files_12351 > dstore_12351.stdout 2>dstore_12351.stderr &
+java -cp /home/la1e17/comp2207-2223-cw/marking/client.jar:/home/la1e17/comp2207-2223-cw/marking/marker.jar Test6dot1 12345 1000 downloaded to_upload small_file.jpg another_small_file.jpg yet_another_small_file.jpg guess_what.jpg really.jpg finally.jpg 12352 12353 5 > client.stdout 2>client.stderr &
